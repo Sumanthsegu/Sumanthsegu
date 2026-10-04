@@ -4,7 +4,7 @@
 
 I'm an Electronics & Communication Engineering graduate from **IIITDM Kurnool**, with hands-on experience in **FPGA, Verilog, VLSI, Embedded Systems, and IoT**.
 
-Currently working as an **FPGA/VLSI Intern at Logic Fruit Technologies**, with a strong interest in RTL design, digital systems, FPGA development, and VLSI engineering.
+Currently working as an **R&D Intern at Logic Fruit Technologies**, with a strong interest in RTL design, digital systems, FPGA development, and VLSI engineering.
 
 ---
 
@@ -15,6 +15,9 @@ Currently working as an **FPGA/VLSI Intern at Logic Fruit Technologies**, with a
 - RTL Design
 - Digital Electronics
 - FSM Design
+- Verilog
+- SystemVerilog(basics)
+- UVM(basics)
 - FPGA
 - Xilinx Vivado
 - Simulation & Verification
@@ -69,17 +72,18 @@ Embedded GUI development using TI CC1312R, LVGL, SPI and TFT display.
 ## 💼 Experience
 
 **Logic Fruit Technologies**  
-FPGA / VLSI Intern
+R&D Intern
 
 **SRIOT Systems Pvt. Ltd.**  
-Embedded Systems & IoT Intern
+Embedded_IoT Engineer Intern
 
 ---
 
 ## 🎓 Education
 
 **B.Tech – Electronics & Communication Engineering**  
-IIITDM Kurnool
+Indian Institute of Information Technology, Design and Manufacturing, Kurnool
+2022-2026
 
 **Minor:** Unmanned Aerial Systems (UAV/UAS)
 
@@ -92,4 +96,4 @@ IIITDM Kurnool
 
 ---
 
-⭐ I'm interested in **VLSI, FPGA, RTL Design, Digital Systems and Embedded Engineering**.
+⭐ I'm interested in **VLSI, FPGA, RTL Design & Verification, Digital Systems and Embedded Engineering**.
