@@ -16,7 +16,7 @@ Currently working as an **R&D Intern at Logic Fruit Technologies**, with a stron
 - Digital Electronics
 - FSM Design
 - Verilog
-- SystemVerilog(basics)
+- SystemVerilog(Medium)
 - UVM(basics)
 - FPGA
 - Xilinx Vivado
